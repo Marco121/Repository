@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Combi AQP
+    </string>
+    <string name="hello_world">Hello world!</string>
+    <string name="normal">Normal</string>
+    <string name="sattelite">Satellite</string>
+    <string name="none">None</string>
+    <string name="hybrid">Hybrid</string>
+
+    <string name="terrain">Terrain</string>
+    <string name="current_location">Current Location</string>
+    <string name="go">Go</string>
+    <string name="prompt_location">Location:</string>
+    <string name="map_info">Map information</string>
+    <string name="title_activity_maps">Combi AQP</string>
+
+    <string name="title_section1">Combi AQP</string>
+    <string name="title_section2">Como LLegar</string>
+    <string name="title_section3">Ver Ubicacion</string>
+    <string name="title_section4">Combis</string>
+    <string name="title_section5">Contactanos</string>
+    <string name="title_section6">Configuracion</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_ubicacion">Map</string>
+
+</resources>
